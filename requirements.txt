@@ -1,6 +1,6 @@
 # Dependencies
 streamlit
-pandas
+pandas==2.2.2
 scikit-learn==1.6.1
 joblib==1.5.3
 xgboost==3.2.0
